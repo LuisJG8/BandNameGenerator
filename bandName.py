@@ -22,7 +22,7 @@ print(f"Your band name could be {city} {petsName}")
 #         print(f"Your band name could be {city} {petsName}")
 
 
-# this is ChatGpt Improved Version
+# Improved Version
 
 # print("Welcome to the Band Name Generator")
 # flag = True
